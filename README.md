@@ -831,7 +831,7 @@ const SESSION_KEY = 'rejetnotif_session';
 // ══════════════════════════════════════════════════════════════════════
 
 const SB_URL = 'https://pkpfylqdjdjozphlztlg.supabase.co';
-const SB_KEY = 'sb_publishable_Za7Dle6IL84YZ7gAgx4cgg_VN467A_8';
+const SB_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBrcGZ5bHFkamRqb3pwaGx6dGxnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY3MDc1NDMsImV4cCI6MjA5MjI4MzU0M30.HbHNyxLe46QGCn0TilP26Bde7-n0tZi-nDBI84dkF4Y';
 
 const ROLES = [
   { id:'gestionnaire', label:'Gestionnaire', role:'Liquidateur de prestations', color:'#005f5f' },
